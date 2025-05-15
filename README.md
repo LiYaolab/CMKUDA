@@ -75,6 +75,7 @@ This project builds upon the invaluable contributions of following open-source p
 
 1. DAMP (https://github.com/TL-UESTC/DAMP)
 2. AD-CLIP (https://github.com/mainaksingha01/AD-CLIP)
+3. DAPrompt (https://github.com/LeapLabTHU/DAPrompt)
 
 
 
