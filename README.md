@@ -3,6 +3,8 @@
 # Counterfactual Knowledge Maintenance for Unsupervised Domain Adaptation
 
 This repository contains the code for 'Counterfactual Knowledge Maintenance for Unsupervised Domain Adaptation'
+![image](https://github.com/user-attachments/assets/7a423ad8-6f48-4c18-aa5e-9d64945b3fea)
+
  
 ## How to Install Dependent Environments
 Our code is built based on CLIP and Dassl, which can be installed with following commands.
