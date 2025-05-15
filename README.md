@@ -6,7 +6,7 @@ This repository contains the code for 'Counterfactual Knowledge Maintenance for 
 
 ---
 <div align="center">
-  <img src="assets/overall.pdf" width="900px" />
+  <img src="assets/overall.png" width="900px" />
 </div>
 ---
  
